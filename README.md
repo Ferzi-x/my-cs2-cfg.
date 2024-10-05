@@ -5,7 +5,7 @@ How to use:
 1. Download the Yana_Ferzi.cfg file.
 2. Place the file in your cs2 config folder. Here's where to find your cfg folder:
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-3. In the cs2 console, type exec Yana_Ferzi.cfg to load the config.
+3. In the cs2 console, type "exec Yana_Ferzi.cfg" to load the config.
 
 Additional instructions - how to add file to the cfg folder:
 OPEN - File explorer —> This PC —> Local Disk (C;) —> Program Files (x86) —> Steam —> steamapps —> common —> Counter-Strike Global Offensive —> game —> csgo —> cfg, and then just put the file into this folder
