@@ -23,10 +23,13 @@ Radar:
 cl_hud_radar_scale 1;cl_radar_scale 0.35;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.5
 
 To save settings type this console command:
-host_writeconfig Ferzi.cfg
+
+"host_writeconfig Ferzi.cfg"
+
 *U can use this console command to add ur own commands to make this cfg better for ur self
 
 Launch options:
+
 +fps_max 500 +cl_interp_ratio 1 -novid +rate 786432 -tickrate 129 +cl_cmdrate 128 +cl_updaterate 128
 
 Hit me up in the comments if you have any questions.
