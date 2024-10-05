@@ -12,10 +12,13 @@ OPEN - File explorer —> This PC —> Local Disk (C;) —> Program Files (x86) 
 
 
 Here are the commands that u need to type in game console:
+
 Viewmodel:
 viewmodel_fov 68;viewmodel_offset_x 2.5;viewmodel_offset_y 2;viewmodel_offset_z -2;cl_righthand 1;viewmodel_presetpos 0
+
 HUD:
 hud_scaling 0.8;cl_hud_color 0;cl_showloadout 1;safezonex 1;safezoney 1
+
 Radar:
 cl_hud_radar_scale 1;cl_radar_scale 0.35;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.5
 
